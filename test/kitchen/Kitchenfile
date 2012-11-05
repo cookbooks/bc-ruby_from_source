@@ -1,0 +1,3 @@
+cookbook "ruby_from_source" do
+  runtimes []
+end
