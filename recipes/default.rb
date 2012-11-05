@@ -13,6 +13,7 @@ package "libxslt-devel"
 package "libffi-devel"
 package "openssl-devel"
 package "mysql-devel"
+package "readline-devel"
 
 
 directory "/var/builder"

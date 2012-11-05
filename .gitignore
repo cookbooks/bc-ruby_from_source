@@ -1,4 +1,7 @@
 .bundle
 .cache
 .kitchen
+.chef/checksums
 bin
+*.pem
+*.swp
